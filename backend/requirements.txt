@@ -8,6 +8,4 @@ gunicorn
 faiss-cpu
 tiktoken
 python-magic
-python-magic-bin
-
 
